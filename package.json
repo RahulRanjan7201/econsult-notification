@@ -1,0 +1,16 @@
+{
+  "name": "econsult-notification",
+  "version": "1.0.0",
+  "description": "Notification Channel for econsult",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "“Rahul <“rahul.ranjan72@hotmail.com”>",
+  "license": "ISC",
+  "dependencies": {
+    "mqtt": "^3.0.0",
+    "nodemon": "^2.0.3"
+  }
+}
